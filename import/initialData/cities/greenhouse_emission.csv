@@ -1,0 +1,103 @@
+country,total_co2,co2_per_capita,total_methane,methane_per_capita
+Qatar,91.97 m t,31.38 t,21.45 m t,7.32 t
+Bahrain,33.26 m t,19.02 t,17.41 m t,9.96 t
+Kuwait,92.65 m t,21.40 t,24.71 m t,5.71 t
+Turkmenistan,72.87 m t,11.91 t,80.48 m t,13.15 t
+United Arab Emirates,188.86 m t,18.90 t,49.80 m t,4.98 t
+Grenada,"330,000.00 t",2.92 t,2.04 m t,18.05 t
+New Caledonia,5.33 m t,19.54 t,"214,726.32 t",0.79 t
+Australia,386.53 m t,15.02 t,126.07 m t,4.90 t
+Brunei,6.99 m t,15.83 t,1.59 m t,3.60 t
+Gibraltar,"634,391.00 t",18.83 t,"6,604.06 t",0.20 t
+Saudi Arabia,523.78 m t,14.82 t,110.25 m t,3.12 t
+Canada,580.21 m t,15.17 t,101.70 m t,2.66 t
+United States,4.82 bn t,14.52 t,744.51 m t,2.24 t
+Russia,1.70 bn t,11.88 t,684.30 m t,4.77 t
+Luxembourg,9.49 m t,14.85 t,"560,000.00 t",0.88 t
+Kazakhstan,212.11 m t,11.16 t,48.89 m t,2.57 t
+New Zealand,34.01 m t,6.64 t,32.52 m t,6.35 t
+South Korea,610.79 m t,11.80 t,22.70 m t,0.44 t
+Ireland,35.75 m t,7.11 t,15.46 m t,3.07 t
+Czechia,96.29 m t,9.00 t,12.44 m t,1.16 t
+Bermuda,"612,389.00 t",9.59 t,"30,959.96 t",0.48 t
+Iran,630.01 m t,7.41 t,213.68 m t,2.51 t
+Singapore,47.38 m t,8.69 t,4.25 m t,0.78 t
+Netherlands,146.34 m t,8.35 t,15.54 m t,0.89 t
+Malaysia,253.27 m t,7.73 t,36.81 m t,1.12 t
+Japan,1.08 bn t,8.61 t,27.38 m t,0.22 t
+Belgium,93.01 m t,8.03 t,8.08 m t,0.70 t
+South Africa,439.64 m t,7.32 t,80.13 m t,1.33 t
+Poland,295.13 m t,7.81 t,29.00 m t,0.77 t
+Germany,657.40 m t,7.91 t,48.71 m t,0.59 t
+Estonia,10.18 m t,7.66 t,1.11 m t,0.84 t
+China,10.71 bn t,7.58 t,1.18 bn t,0.83 t
+Serbia,45.95 m t,6.71 t,11.54 m t,1.69 t
+Finland,40.71 m t,7.35 t,4.64 m t,0.84 t
+Venezuela,112.34 m t,3.91 t,119.24 m t,4.15 t
+Austria,64.77 m t,7.23 t,6.92 m t,0.77 t
+Israel,62.65 m t,6.69 t,9.74 m t,1.04 t
+Equatorial Guinea,5.35 m t,3.69 t,5.67 m t,3.91 t
+Iraq,174.56 m t,4.24 t,134.69 m t,3.27 t
+Norway,35.95 m t,6.65 t,4.54 m t,0.84 t
+Bulgaria,39.14 m t,5.67 t,6.84 m t,0.99 t
+Greece,60.00 m t,5.63 t,9.34 m t,0.88 t
+Argentina,168.10 m t,3.67 t,128.80 m t,2.81 t
+Denmark,29.70 m t,5.07 t,7.78 m t,1.33 t
+Hong Kong,43.64 m t,5.89 t,3.15 m t,0.42 t
+Italy,317.24 m t,5.37 t,44.35 m t,0.75 t
+United Kingdom,348.92 m t,5.18 t,50.11 m t,0.74 t
+Algeria,171.25 m t,3.84 t,92.34 m t,2.07 t
+Spain,239.98 m t,5.07 t,39.28 m t,0.83 t
+Iceland,1.64 m t,4.41 t,"529,999.97 t",1.42 t
+Hungary,46.38 m t,4.78 t,7.00 m t,0.72 t
+Montenegro,2.60 m t,4.19 t,"779,999.97 t",1.26 t
+Portugal,44.64 m t,4.33 t,11.35 m t,1.10 t
+Chile,91.37 m t,4.76 t,11.59 m t,0.60 t
+France,300.52 m t,4.45 t,59.66 m t,0.88 t
+Turkey,396.84 m t,4.67 t,48.52 m t,0.57 t
+Croatia,16.52 m t,4.24 t,3.68 m t,0.94 t
+Switzerland,37.38 m t,4.30 t,5.04 m t,0.58 t
+Mauritius,4.17 m t,3.29 t,1.95 m t,1.54 t
+Thailand,267.09 m t,3.82 t,70.19 m t,1.00 t
+Romania,73.95 m t,3.87 t,16.76 m t,0.88 t
+Ukraine,174.73 m t,3.99 t,32.68 m t,0.75 t
+Mexico,449.27 m t,3.45 t,138.80 m t,1.07 t
+Bolivia,22.34 m t,1.89 t,28.36 m t,2.40 t
+Vietnam,336.49 m t,3.43 t,80.48 m t,0.82 t
+Timor-Leste,"620,000.00 t",0.46 t,5.01 m t,3.73 t
+Georgia,10.11 m t,2.73 t,5.19 m t,1.40 t
+Brazil,434.30 m t,2.03 t,431.07 m t,2.01 t
+Sweden,35.00 m t,3.36 t,4.77 m t,0.46 t
+Ecuador,39.29 m t,2.20 t,27.17 m t,1.52 t
+Malta,1.66 m t,3.21 t,"220,000.00 t",0.43 t
+Macao,2.07 m t,3.14 t,"150,575.46 t",0.23 t
+Indonesia,619.84 m t,2.24 t,280.95 m t,1.02 t
+Chad,2.25 m t,0.13 t,52.72 m t,3.12 t
+Egypt,249.37 m t,2.39 t,75.13 m t,0.72 t
+Colombia,81.04 m t,1.58 t,76.84 m t,1.50 t
+Albania,4.83 m t,1.72 t,2.85 m t,1.01 t
+Costa Rica,8.24 m t,1.60 t,4.69 m t,0.91 t
+Morocco,71.48 m t,1.91 t,12.16 m t,0.33 t
+India,2.46 bn t,1.76 t,656.65 m t,0.47 t
+Cambodia,16.18 m t,0.95 t,18.20 m t,1.07 t
+Burma,36.72 m t,0.67 t,73.05 m t,1.33 t
+Philippines,145.42 m t,1.31 t,64.73 m t,0.58 t
+Sudan,20.62 m t,0.46 t,55.38 m t,1.23 t
+Zimbabwe,11.76 m t,0.78 t,12.55 m t,0.83 t
+Pakistan,190.57 m t,0.85 t,162.76 m t,0.72 t
+Sri Lanka,23.78 m t,1.07 t,8.22 m t,0.37 t
+Nepal,13.45 m t,0.45 t,23.55 m t,0.79 t
+Nigeria,115.28 m t,0.55 t,135.84 m t,0.64 t
+Bangladesh,90.74 m t,0.55 t,92.65 m t,0.56 t
+Kenya,22.28 m t,0.41 t,36.84 m t,0.67 t
+Ghana,20.04 m t,0.63 t,10.90 m t,0.34 t
+Cameroon,9.43 m t,0.35 t,15.55 m t,0.57 t
+Ethiopia,18.36 m t,0.16 t,84.14 m t,0.71 t
+Haiti,3.32 m t,0.29 t,5.28 m t,0.46 t
+Ivory Coast,10.83 m t,0.40 t,7.23 m t,0.27 t
+Afghanistan,6.08 m t,0.15 t,16.37 m t,0.41 t
+Congo (Dem. Republic),3.21 m t,0.03 t,34.93 m t,0.38 t
+Liberia,1.18 m t,0.23 t,"370,000.00 t",0.07 t
+Malawi,1.45 m t,0.07 t,3.95 m t,0.20 t
+Rwanda,1.33 m t,0.10 t,1.88 m t,0.14 t
+Burundi,"720,000.00 t",0.06 t,1.35 m t,0.11 t
